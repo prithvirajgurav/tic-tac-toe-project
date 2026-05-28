@@ -1,0 +1,23 @@
+button{
+    height: 125px;
+    width: 125px;
+}
+body{
+    background-color: rgb(166, 100, 223);
+}
+#re{
+    padding:1px;
+    background-color: rgb(235, 5, 5);
+    color: white;
+
+}
+.box{
+    color:red;
+    font-size: 77px;
+    background-color: rgb(149, 239, 94);
+    margin: 7px;
+}
+#game{
+    background-color: blue;
+    color: white;
+}
